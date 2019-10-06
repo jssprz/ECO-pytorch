@@ -42,7 +42,7 @@ e.g. python gen_dataset_lists.py something ~/dataset/20bn-something-something-v1
       ECO-Full pretrained model on Kinetics: https://drive.google.com/open?id=1ATuN_KctsbFAbcNgWDlETZVsy2vhxZay
 
 ```
-Othe models:
+Other models:
 ```Shell
       sh models/download_models.sh
 ```
